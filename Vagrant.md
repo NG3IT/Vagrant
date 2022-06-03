@@ -12,9 +12,7 @@
 
 <br>
 
----
-
-## Vagrant file template
+## Vagrantfile template
 
 <br>
 

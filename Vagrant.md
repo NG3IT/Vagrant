@@ -6,7 +6,7 @@
 
 [Vagrant Cloud](https://app.vagrantup.com/boxes/search)
 
-[Xavki channel](https://www.youtube.com/watch?v=5hmsWOmI2kY&list=PLn6POgpklwWoIuyYD6uiOSGUObaF9fG7N&index=2) -> Thank you to Xavki for his contribution to open knowledge about some things.
+[Xavki channel](https://www.youtube.com/watch?v=5hmsWOmI2kY&list=PLn6POgpklwWoIuyYD6uiOSGUObaF9fG7N&index=2) -> Thanks to Xavki for his contribution to open knowledge about many things.
 
 [Vagrant Cheat Sheet](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
 
